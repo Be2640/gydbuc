@@ -1,5 +1,7 @@
 git - https://git-scm.com/downloads
 
+hi, there
+
 VSCode - https://code.visualstudio.com/download
 
 PS7 - https://github.com/PowerShell/PowerShell/releases/tag/v7.3.9
