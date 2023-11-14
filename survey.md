@@ -23,8 +23,8 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
    - [ ] Other: 
 
 3. **Have you ever used GitHub or any other remote repository hosting service?**
-   - [] Yes
-   - [x] No
+   - [ ] Yes
+   - [ ] No
 
 ## Expectations from the Session
 **What are you hoping to learn today?** (Please write a brief description)
